@@ -28,7 +28,6 @@ You will get the list of links for each provieder:
 	 7. https://vidlox.me/v4tmzhqom0tx
 	 8. https://clipwatching.com/d5yx32vj052p/Birds.Of.Prey.2020-MDT.mp4.html
 	 9. https://www.yourupload.com/embed/87R8nH21W3T2
-gipsh@onosendai:~/workspace/mdt/gomdt$ 
 
 ```
 
