@@ -72,7 +72,11 @@ func decodeId(id string) string {
 func main() {
 
 
-  //  doc, err := goquery.NewDocument("https://miradetodo.co/fangio-el-hombre-que-domaba-las-maquinas-2020-720p-hd/")
+  if len(os.Args) < 2  {
+	fmt.Printf("Usage: %s https://miradetodo.co/episodio/westworld-3x3/ \n", os.Args[0])
+	os.Exit(0)
+  } 
+
   doc, err := goquery.NewDocument(os.Args[1])
 
 
